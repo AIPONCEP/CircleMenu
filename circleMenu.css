@@ -1,6 +1,7 @@
 body{
     font-family: "Dosis", sans-serif;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.801);
 }
 #menu{
     width: 150px;
@@ -24,7 +25,7 @@ body{
     top: 50%;
     margin: -75px 0 0 -75%;
     border-radius: 50%;
-    background: #424242;
+    background: #005577;
     background-size: 100%;
     overflow: hidden;
     text-decoration: none;
@@ -45,10 +46,10 @@ body{
     position: absolute;
     left: 55%;
     line-height: 5px;
-    top: 50%;
+    top: 70%;
     margin: -50px 0 0 -50px;
     border-radius: 50%;
-    background-color: #424242;
+    background-color: #005577;
     transform: translate(0px, 0px);
     transition: transform 500ms;
     z-index: -2;
@@ -61,7 +62,7 @@ body{
 .menu-item a{
     counter-reset: #fff;
     position: relative;
-    top:30%;
+    top:20%;
     left: 0;
     text-decoration: none;
 }
