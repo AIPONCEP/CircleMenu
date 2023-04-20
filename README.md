@@ -4,7 +4,7 @@
 
 Efecto css y html basado en el tutorial de youtube sobre HTML y CSS de Easy Learn Axis.
 
-[URL a tutorial Easy Learn Axis](https://www.youtube.com/watch?v=R7e9QguUPrQ)
+[Tutorial Easy Learn Axis](https://www.youtube.com/watch?v=R7e9QguUPrQ)
 
 ## Muestra
 
@@ -14,7 +14,7 @@ Efecto css y html basado en el tutorial de youtube sobre HTML y CSS de Easy Lear
 ## Uso
 
 ```js
-    // Asignacion al id open-menu, evento click para que se produzca el efecto al hacer click sobre el circulo.
+    //Asignacion al id open-menu, evento click.
     window.onload =function(){ 
     var menuButton = document.getElementById("open-menu");
     menuButton.click();
@@ -44,4 +44,4 @@ Efecto css y html basado en el tutorial de youtube sobre HTML y CSS de Easy Lear
 
 [URL](https://github.com/AIPONCEP/CircleMenu.git)
 
-[live site URL](https://aiponcep.github.io/CircleMenu/#menu)
+[Live site URL](https://aiponcep.github.io/CircleMenu/#menu)
