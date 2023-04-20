@@ -4,7 +4,7 @@
 
 Efecto css y html basado en el tutorial de youtube sobre HTML y CSS de Easy Learn Axis.
 
-[URL](https://www.youtube.com/watch?v=R7e9QguUPrQ)
+[URL a tutorial Easy Learn Axis](https://www.youtube.com/watch?v=R7e9QguUPrQ)
 
 ## Muestra
 
@@ -43,4 +43,5 @@ Efecto css y html basado en el tutorial de youtube sobre HTML y CSS de Easy Lear
 ## Links
 
 [URL](https://github.com/AIPONCEP/CircleMenu.git)
+
 [live site URL](https://aiponcep.github.io/CircleMenu/#menu)
