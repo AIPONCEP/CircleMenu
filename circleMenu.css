@@ -30,6 +30,7 @@ body{
     overflow: hidden;
     text-decoration: none;
 }
+/*apuntamos al 2º elemento a con id menu de modo que queda oculto tras el primero con z-index*/
 #menu:not(:target)>a:first-of-type,
 #menu:target>a:last-of-type{
     opacity: 1;

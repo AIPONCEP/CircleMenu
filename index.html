@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu-Redes-Sociales</title>
-    <link rel="stylesheet" href="circleMenu.css">
-    <!--https://www.youtube.com/watch?v=R7e9QguUPrQ-->
-</head>
-<body>
+    <title>Menu-Redes-Sociales</title>    
+    <link rel="stylesheet" href="circleMenu.css">   
+    <!--Efecto css y html basado en el tutorial: https://www.youtube.com/watch?v=R7e9QguUPrQ-->    
+    </head>
+<body>    
     <div class="container">
         <ul id="menu">
             <a class="menu-button icon-plus" id="open-menu" href="#menu" title="Show navigation">
@@ -75,12 +75,12 @@
             </li>
         </ul>
     </div>
-    <script>
-        window.onload =function(){
+    <script> 
+        // Asignacion al id open-menu, evento click para que se produzca el efecto al hacer click sobre el circulo.
+        window.onload =function(){ 
             var menuButton = document.getElementById("open-menu");
             menuButton.click();
         };
-
     </script>
 </body>
 </html>
